@@ -1,0 +1,18 @@
+# KiCad backup files
+*-backups/
+*.bak
+
+# Autosave and temporary files
+*.lck
+*.tmp
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary manufacturing outputs
+# Uncomment if these are generated files
+# *.gbr
+# *.drl
